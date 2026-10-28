@@ -1,2 +1,2 @@
 haven
-hello git
+hello git 你好 git
