@@ -1,4 +1,4 @@
 yellow
 blue
-第一句话
+
 第二句话
